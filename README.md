@@ -1,8 +1,8 @@
 # premiere-pro
 ## 순서
-### File - New - Project - Name - Ok
-Window - Workspaces - Editing then again go to Window - Workspaces - Reset to Saved Layout
-File - Import - Choose file then imported files will be bottom left corner "Project Panel" (Sort and display by however you want there)
+1. File - New - Project - Name - Ok
+2. Window - Workspaces - Editing then again go to Window - Workspaces - Reset to Saved Layout
+3. File - Import - Choose file then imported files will be bottom left corner "Project Panel" (Sort and display by however you want there)
 Quick tip - Double click anywhere on 'Project panel' to import files quickly
 Then drag the imported file (mp4 or img) to the bottom right corner "Timeline" to create a sequence (can do with multiple files) - V is for videos, A is for audios
 Make sure to only move V(video) NOT A(audio) across to edit
