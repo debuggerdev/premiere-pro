@@ -1,6 +1,6 @@
 # premiere-pro
-순서
-File - New - Project - Name - Ok
+## 순서
+### File - New - Project - Name - Ok
 Window - Workspaces - Editing then again go to Window - Workspaces - Reset to Saved Layout
 File - Import - Choose file then imported files will be bottom left corner "Project Panel" (Sort and display by however you want there)
 Quick tip - Double click anywhere on 'Project panel' to import files quickly
