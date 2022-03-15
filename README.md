@@ -70,3 +70,9 @@ https://www.youtube.com/watch?v=QUAdOXDhXUk
 https://www.youtube.com/watch?v=d1PWEHRQyTs
 ## Free stock music
 https://www.free-stock-music.com/corporate.html
+## How to crop video
+Go to Sequence -> Sequence Settings -> Change Frame Size (vertical) or horizontal 
+## Best way to export 
+The best format to export from premiere pro is to select H. 264 – as the format. Then, directly below, choose your preset – we recommend using the YouTube 1080p Full HD preset.
+## How to center-align text in screen 
+Go to Captions and Graphics (on top) - Edit - Align and Transform 
